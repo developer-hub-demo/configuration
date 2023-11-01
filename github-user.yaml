@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: vincent-tsugranes # This must match with your github account name
+spec:
+  profile:
+    displayName: Vince
+    email: vince@redhat.com
+  memberOf: []
