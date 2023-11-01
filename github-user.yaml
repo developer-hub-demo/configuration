@@ -5,5 +5,4 @@ metadata:
 spec:
   profile:
     displayName: Vince
-    email: vince@redhat.com
   memberOf: [default]
